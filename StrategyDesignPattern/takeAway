@@ -1,0 +1,4 @@
+If you create the type of payent during the time of creation of the Shopping Cart object, you cannot change the payment type later.
+It is immutable
+
+So if we want to change the payment type later on, it's better to use a method to select the payment type .
